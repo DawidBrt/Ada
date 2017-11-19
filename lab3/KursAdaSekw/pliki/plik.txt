@@ -1,0 +1,12 @@
+Poczatek pliku
+Plik testowy, linia  1
+Plik testowy, linia  2
+Plik testowy, linia  3
+Plik testowy, linia  4
+Plik testowy, linia  5
+Plik testowy, linia  6
+Plik testowy, linia  7
+Plik testowy, linia  8
+Plik testowy, linia  9
+Plik testowy, linia  10
+Koniec pliku testowego
